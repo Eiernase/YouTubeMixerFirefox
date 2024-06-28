@@ -1,7 +1,7 @@
 {
 "manifest_version": 3,
     "name": "YouTube Mixer",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "description": "__MSG_extensionDescription__",
     "author": "Eiernase",
     "homepage_url": "https://github.com/Eiernase/YouTubeMixChrome",
@@ -19,6 +19,9 @@
         "128": "images/icon-128.png"
     },
     "browser_specific_settings": {
+        "gecko": {
+            "id": "ytm@kueheaufdsl.de"
+        },
         "gecko_android": {
             "id": "ytm@kueheaufdsl.de",
             "strict_min_version": "113.0"

@@ -15,6 +15,10 @@
         "message": "Optionen",
         "description": "Header on the options page"
     },
+    "title": {
+        "message": "Optionen - YouTube Mixer",
+        "description": "Title of the options window"
+    },
     "dropdownlabel": {
         "message": "Standardverhalten beim Anklicken der Erweiterung",
         "description": "Label for the dropdown on the options page"

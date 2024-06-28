@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     if (chrome.i18n.getUILanguage().includes('de')) {
         document.getElementById('header').innerHTML = chrome.i18n.getMessage('header');
+        document.getElementById('title').innerHTML = chrome.i18n.getMessage('title');
         document.getElementById('dropdownlabel').innerHTML = chrome.i18n.getMessage('dropdownlabel');
         document.getElementById('popupoption').innerHTML = chrome.i18n.getMessage('popupoption');
         document.getElementById('mymixoption').innerHTML = chrome.i18n.getMessage('mymixoption');

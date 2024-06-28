@@ -1,5 +1,5 @@
 # Youtube Mixer
-YouTube Mixer is an extension to start a YouTube Mix from the current video.
+YouTube Mixer is an extension to start a YouTube Mix from the current video. Also works on Firefox for Android.
 
 # Installation
 ## Firefox Add-on Store
@@ -11,5 +11,5 @@ You can install the extension unpacked, but it will be removed after a restart. 
 1. Download source code
 2. Unpack
 3. Go to about:debugging#/runtime/this-firefox
-4. Click on "Load Temporary Add-on
-5. Select any file from the extension
+4. Click on "Load Temporary Add-on"
+5. Select the manifest.json file inside the extensions folder
