@@ -1,0 +1,10 @@
+{
+    "extensionDescription": {
+        "message": "Starts a YouTube Mix from the current video.",
+        "description": "Description of the extension."
+    },
+    "actionTitle": {
+        "message": "Start a Mix",
+        "description": "Tooltip when hovering the extension in the toolbar."
+    }
+}

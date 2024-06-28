@@ -1,0 +1,40 @@
+body {
+    width: 20rem;
+    background-color: greenyellow;
+    font-family: "Comic Sans MS";
+    font-size: 100%;
+    height: fit-content;
+    margin: 8px 8px 16px 8px;
+    -webkit-user-select: none;
+    user-select: none;
+    display: block;
+}
+
+#version {
+    float: right;
+    color: dimgray;
+}
+
+.funkybutton {
+    padding: 8px 16px;
+    border: 2px solid #f00ff0;
+    background-color: #43cdfe;
+    cursor: pointer;
+    text-align: center;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+    margin: auto;
+    margin-top: 1rem;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.funkybutton:hover {
+    opacity: 1;
+}
+
+.funkybutton:active {
+    background-color: #f00ff0;
+    transition: none;
+}
