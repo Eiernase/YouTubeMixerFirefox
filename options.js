@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('popupoption').innerHTML = chrome.i18n.getMessage('popupoption');
         document.getElementById('mymixoption').innerHTML = chrome.i18n.getMessage('mymixoption');
         document.getElementById('vidmixoption').innerHTML = chrome.i18n.getMessage('vidmixoption');
+        document.getElementById('remlistoption').innerHTML = chrome.i18n.getMessage('remlistoption');
     };
     document.getElementById('defaultactiondropdown').addEventListener('input', function () {
         optionSelect();

@@ -1,5 +1,6 @@
 # Youtube Mixer
 YouTube Mixer is an extension to start a YouTube Mix from the current video. Also works on Firefox for Android.
+There is a version for Chromium available [here](https://github.com/Eiernase/YouTubeMixerChrome).
 
 # Installation
 ## Firefox Add-on Store

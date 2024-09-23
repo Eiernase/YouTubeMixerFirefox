@@ -29,10 +29,14 @@
     },
     "mymixoption": {
         "message": "\"Mein Mix\" starten",
-        "description": "Dropdown option for starting my mix"
+        "description": "Option for starting my mix"
     },
     "vidmixoption": {
         "message": "Video-Mix starten",
-        "description": "Dropdown option for starting video mix"
+        "description": "Option for starting video mix"
+    },
+    "remlistoption": {
+        "message": "Aktuelle Playlist entfernen",
+        "description": "Option for removing current playlist"
     }
 }
